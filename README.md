@@ -46,7 +46,3 @@
 
 ### 🌐 For More Info
 📁 Check out my portfolio (coming soon):   
-
----
-
-✨ _“Keep learning, keep building.”_

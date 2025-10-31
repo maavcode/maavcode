@@ -1,6 +1,6 @@
 <!-- Header con efecto de escritura -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=00C6FF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Mario+Aguilar+Ávila+💻;Junior+Backend+Developer+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=ECA187&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Mario+Aguilar+Ávila+💻;Junior+Backend+Developer+🚀" alt="Typing SVG" />
 </h1>
 
 ---

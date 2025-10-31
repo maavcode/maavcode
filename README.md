@@ -43,5 +43,25 @@
 
 ---
 
+<div >
+
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maavcode&layout=compact&title_color=786FC1&text_color=F8F8F8&bg_color=2B304A&border_color=ffc9e3&border_radius=15&langs_count=8&card_width=445)](https://github.com/maavcode)
+  
+[![Stats](https://github-readme-stats.vercel.app/api?username=maavcode&show_icons=true&title_color=786FC1&text_color=F8F8F8&icon_color=f5a9d0&bg_color=2B304A&border_color=ffc9e3&border_radius=15&include_all_commits=true&count_private=true&line_height=28)](https://github.com/maavcode)
+
+</div>
+
+<h2 align="center">🌸 Contact Me 🌸</h2>
+
+<div align="center" style="text-decoration: none;">
+  
+[![Blog](https://img.shields.io/badge/Blog-miniex.blog-f5a9d0?style=flat&labelColor=ffd1dc)](https://miniex.blog)
+[![Portfolio](https://img.shields.io/badge/Portfolio-miniex.info-f8b4d9?style=flat&labelColor=ffd1dc)](https://miniex.info)
+[![Email](https://img.shields.io/badge/Email-miniex@daminstudio.net-ffd1dc?style=flat&logo=gmail&logoColor=white)](mailto:miniex@daminstudio.net)
+
+</div>
+
+---
+
 ### 🌐 For More Info
 📁 Check out my portfolio (coming soon):   

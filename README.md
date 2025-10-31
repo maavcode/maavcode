@@ -6,7 +6,7 @@
 ---
 
 <!-- About Me -->
-<img align="right" height="270px" width="450px" alt="GIF" src="https://i.pinimg.com/originals/23/3d/74/233d74f3fd24e51ed5e9dba0992fc868.gif" />
+<img align="right" height="270px" width="400px" alt="GIF" src="https://i.pinimg.com/originals/23/3d/74/233d74f3fd24e51ed5e9dba0992fc868.gif" />
 
 ### 🧑‍💻 About Me
 

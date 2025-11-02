@@ -43,17 +43,34 @@
 
 ---
 
----
-
 ### 🚀 Featured Projects
 
-| Projects | GitHub Stats |
-|---|---|
-| - **Personal Portfolio** (in progress)  <br> 🔗 [maavcode.dev](https://maavcode.dev)  <br> Technologies: Astro, React, TailwindCSS <br><br> - **Backend API Example**  <br> A simple Java REST API with PostgreSQL  <br> Technologies: Java, Spring Boot, PostgreSQL <br><br> - **Learning Laravel Project**  <br> CRUD app to practice PHP + Laravel  <br> Technologies: PHP, Laravel, MySQL | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maavcode&layout=compact&title_color=786FC1&text_color=E6E6E6&bg_color=2B304A&border_color=2B304A&border_radius=15&langs_count=8&card_width=400" width="400"/> <br><br> <img src="https://github-readme-stats.vercel.app/api?username=maavcode&show_icons=true&title_color=786FC1&text_color=E6E6E6&icon_color=f5a9d0&bg_color=2B304A&border_color=2B304A&border_radius=15&include_all_commits=true&count_private=true&line_height=28" width="400"/> |
+
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maavcode&layout=compact&title_color=786FC1&text_color=E6E6E6&bg_color=2B304A&border_color=2B304A&border_radius=15&langs_count=8&card_width=400" width="400"/>
 
 
 
+<br/>
+<br/>
+<br/>
 
+**Personal Portfolio** (in progress)  <br> 🔗 [maavcode.dev](https://maavcode.dev)
+**Personal Portfolio** (in progress)  <br> 🔗 [maavcode.dev](https://maavcode.dev)
+**Personal Portfolio** (in progress)  <br> 🔗 [maavcode.dev](https://maavcode.dev)
+
+
+
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=maavcode&show_icons=true&title_color=786FC1&text_color=E6E6E6&icon_color=f5a9d0&bg_color=2B304A&border_color=2B304A&border_radius=15&include_all_commits=true&count_private=true&line_height=28" width="400"/>
+
+<!-- Perdon, ver este codigo es dañino para los ojos -->
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ---
 

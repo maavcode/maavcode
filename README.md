@@ -12,10 +12,10 @@
 
 - 🎓 Currently finishing **2nd year of DAM (Multiplatform Application Development)**.  
 - 💡 **Junior Backend Developer** eager to learn and grow.  
-- 🚀 Learning **PHP + Laravel** to deepen backend skills.  
+- 🚀 Learning **PHP + Laravel** to deepen backend skills.
+- 🚀 Learning **React native** to deepen frontend skills on devices.    
 - 🌐 Exploring **Astro + React** to build my personal portfolio (in progress).  
 - 📚 Always open to learning new technologies and improving my code.  
-<br/>
 
 ---
 

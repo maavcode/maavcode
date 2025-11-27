@@ -58,7 +58,9 @@
 🔗 [maavcode.dev](https://maavcode.dev) (in progress)<br>
 - **Web Development** <br> 
 🔗 [maavcode.dev](https://maavcode.dev) (in progress)<br>
+<!-- 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=maavcode&show_icons=true&title_color=786FC1&text_color=E6E6E6&icon_color=f5a9d0&bg_color=2B304A&border_color=2B304A&border_radius=15&include_all_commits=true&count_private=true&line_height=28" width="400"/>
+-->
 - **Mobile Application Development** <br> 
 🔗 [maavcode.dev](https://maavcode.dev) (in progress)<br>
 - **Desktop Application Development** <br> 

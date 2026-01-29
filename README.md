@@ -14,7 +14,9 @@
 - ⚛️ Learning **Next.js (React)** to expand my frontend knowledge.  
 - 🌐 Exploring **Astro + React** to build my personal portfolio (in progress).  
 - 💡 **Junior Backend Developer** eager to learn and grow.  
-- 🎓 Currently finishing **2nd year of DAM (Multiplatform Application Development)**.  
+- 🎓 Currently finishing **2nd year of DAM (Multiplatform Application Development)**.
+
+<br/>
 
 ---
 
@@ -57,6 +59,8 @@
 
 - **Cross-platform Development** <br> 
 🔗 [maavcode.dev](https://maavcode.dev) (in progress)
+
+<br/>
 
 ---
 

@@ -10,12 +10,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Currently finishing **2nd year of DAM (Multiplatform Application Development)**.  
-- 💡 **Junior Backend Developer** eager to learn and grow.  
-- 🚀 Learning **PHP + Laravel** to deepen backend skills.
-- 🚀 Learning **React native** to deepen frontend skills on devices.    
+- 🚀 Learning **PHP + Laravel** to deepen backend skills.  
+- ⚛️ Learning **Next.js (React)** to expand my frontend knowledge.  
 - 🌐 Exploring **Astro + React** to build my personal portfolio (in progress).  
-- 📚 Always open to learning new technologies and improving my code.  
+- 💡 **Junior Backend Developer** eager to learn and grow.  
+- 🎓 Currently finishing **2nd year of DAM (Multiplatform Application Development)**.  
 
 ---
 
@@ -23,17 +22,17 @@
 
 #### 🧩 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cs,js,ts,php" height="40"/>
+  <img src="https://skillicons.dev/icons?i=php,ts,cs,java,python,js" height="40"/>
 </p>
 
 #### ⚙️ Frameworks & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,astro,react,odoo" height="40"/>
+  <img src="https://skillicons.dev/icons?i=laravel,react,astro,spring,androidstudio,maven" height="40"/>
 </p>
 
 #### 🗄️ Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="40"/>
 </p>
 
 #### ☁️ DevOps & Others
@@ -45,44 +44,21 @@
 
 ### 🚀 Featured Projects
 
-
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maavcode&layout=compact&title_color=786FC1&text_color=E6E6E6&bg_color=2B304A&border_color=2B304A&border_radius=15&langs_count=8&card_width=400" width="400"/>
-
-
-
-<br/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maavcode&layout=compact&title_color=786FC1&text_color=E6E6E6&bg_color=2B304A&border_color=2B304A&border_radius=15&langs_count=8&card_width=400" width="500"/>
 
 - **Cross-platform Development** <br> 
 🔗 [maavcode.dev](https://maavcode.dev) (in progress)
-- **Personal Projects** <br> 
-🔗 [maavcode.dev](https://maavcode.dev) (in progress)<br>
-- **Web Development** <br> 
-🔗 [maavcode.dev](https://maavcode.dev) (in progress)<br>
-<!-- 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=maavcode&show_icons=true&title_color=786FC1&text_color=E6E6E6&icon_color=f5a9d0&bg_color=2B304A&border_color=2B304A&border_radius=15&include_all_commits=true&count_private=true&line_height=28" width="400"/>
--->
-- **Mobile Application Development** <br> 
-🔗 [maavcode.dev](https://maavcode.dev) (in progress)<br>
-- **Desktop Application Development** <br> 
-🔗 [maavcode.dev](https://maavcode.dev) (in progress)<br>
-- **Web Application Development** <br> 
-🔗 [maavcode.dev](https://maavcode.dev) (in progress)<br>
 
+- **Cross-platform Development** <br> 
+🔗 [maavcode.dev](https://maavcode.dev) (in progress)
 
+- **Cross-platform Development** <br> 
+🔗 [maavcode.dev](https://maavcode.dev) (in progress)
 
-  
-
-<!-- Perdon, ver este codigo es dañino para los ojos -->
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+- **Cross-platform Development** <br> 
+🔗 [maavcode.dev](https://maavcode.dev) (in progress)
 
 ---
 
 ### 🌐 For More Info
-📁 Check out my portfolio (coming soon):   
+📁 Check out my portfolio (coming soon)

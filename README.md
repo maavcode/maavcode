@@ -45,9 +45,9 @@
 ---
 
 ### 🚀 Featured Projects
-
+<!-- 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maavcode&layout=compact&title_color=786FC1&text_color=E6E6E6&bg_color=2B304A&border_color=2B304A&border_radius=15&langs_count=8&card_width=400" width="500"/>
-
+-->
 - **Cross-platform Development** <br> 
 🔗 [maavcode.dev](https://maavcode.dev) (in progress)
 

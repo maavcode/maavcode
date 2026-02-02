@@ -34,7 +34,7 @@
 
 #### 🗄️ Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" height="40"/>
 </p>
 
 #### ☁️ DevOps & Others

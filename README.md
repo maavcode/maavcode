@@ -11,7 +11,7 @@
 ### 🧑‍💻 About Me
 
 - 🚀 Learning **PHP + Laravel** to deepen backend skills (in progress).  
-- ⚛️ Learning **Next.js (React)** to expand my frontend knowledge.  
+- ⚛️ I plan to learning **Next.js (React)** to expand my frontend knowledge.  
 - 🌐 Exploring **Astro + React** to build my personal portfolio (in progress).  
 - 💡 **Junior Backend Developer** eager to learn and grow.  
 - 🎓 Currently finishing **2nd year of DAM (Multiplatform Application Development)**.

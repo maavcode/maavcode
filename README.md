@@ -22,27 +22,46 @@
   </picture>
 </div>
 
-### 🧠 Tech Stack
+### Tech Stack
 
-#### 🧩 Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,ts,cs,java,python,js" height="40"/>
-</p>
+#### Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-#### ⚙️ Frameworks & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,react,astro,spring,androidstudio,maven" height="40"/>
-</p>
+#### Frameworks & Tools
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 
-#### 🗄️ Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" height="40"/>
-</p>
+#### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-#### ☁️ DevOps & Others
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,aws" height="40"/>
-</p>
+#### DevOps & Observability
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white)
+
+#### File Storage
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![SeaweedFS](https://img.shields.io/badge/SeaweedFS-2D3748?style=flat)
+
+#### AI & Automation
+![OpenCode](https://img.shields.io/badge/OpenCode-6C5CE7?style=flat)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent-412991?style=flat)
+![AI Driven](https://img.shields.io/badge/AI_Driven-FF6F00?style=flat)
 
 ---
 
@@ -66,5 +85,14 @@
 
 ---
 
-### 🌐 For More Info
-📁 Check out my portfolio (coming soon)
+## Find me at:
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-39E09B?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://maavcode.dev)
+</br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario_Aguilar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/mario-aguilar-avila-17a418389/)
+</br>
+[![Email](https://img.shields.io/badge/Email-mario.aguilar.dev@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=101010)](mailto:mario.aguilar.dev@hotmail.com)
+</br>
+[![Instagram](https://img.shields.io/badge/Instagram-@maavcode-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/maavcode)
+</br>
+[![Twitch](https://img.shields.io/badge/Twitch-maavcode-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/maavcode)

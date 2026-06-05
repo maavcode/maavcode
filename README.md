@@ -21,7 +21,6 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/maavcode/maavcode/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
----
 
 ### 🧠 Tech Stack
 

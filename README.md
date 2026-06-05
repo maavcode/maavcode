@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=786FC1&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Mario+Aguilar+Ávila+💻;Junior+Full+Stack+Developer+🚀" alt="Typing SVG" />
 </h1>
 
----
-
 <!-- About Me -->
 <img align="right" height="250px" width="420px" alt="GIF" src="https://i.pinimg.com/originals/23/3d/74/233d74f3fd24e51ed5e9dba0992fc868.gif" />
 
@@ -16,14 +14,13 @@
 - 💡 **Junior Backend Developer** eager to learn and grow.  
 - 🎓 Currently finishing **2nd year of DAM (Multiplatform Application Development)**.
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maavcode/maavcode/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maavcode/maavcode/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/maavcode/maavcode/output/github-contribution-grid-snake.svg" />
-</picture>
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maavcode/maavcode/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maavcode/maavcode/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/maavcode/maavcode/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 ---
 
 ### 🧠 Tech Stack

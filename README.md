@@ -12,6 +12,7 @@
 - ⚡ Developing web applications with **Next.js**.
 - 🧠 Expanding into **AI & Big Data**.
 - 💻 Passionate about learning and building real-world projects.
+- 👤 **Mario Aguilar Ávila**, 20 years old.
 
 <div align="center">
   <picture>

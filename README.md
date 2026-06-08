@@ -84,7 +84,7 @@
 
 ## 🚀 Featured Projects
 
-<table>
+<div align="center"><table>
   <tr>
     <td width="70%">
       <h3>🚀 Portfolio</h3>
@@ -119,6 +119,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 ## Find me at:
 

@@ -91,7 +91,7 @@
       <h3>🚀 Portfolio</h3>
       <p>Built with <strong>Astro + React + TailwindCSS</strong>.<br>
       Personal website with dark mode, animations, and responsive design.</p>
-      <a href="https://maavcode.dev">🔗 maavcode.dev</a>
+      <a href="#">🔗 maavcode.dev</a>
     </td>
     <td width="30%">
       <img src="https://placehold.co/250x150/2B304A/786FC1?text=Portfolio" width="250"/>

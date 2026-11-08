@@ -1,19 +1,120 @@
-<!-- Header con efecto de escritura -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=786FC1&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Mario+Aguilar+Ávila+💻;Full+Stack+Developer+🚀" alt="Typing SVG" />
-</h1>
+<!-- Hero Section -->
+<p align="center">
+  <img src="./assets/wave-top.svg" width="100%" alt="Animated top wave" />
+</p>
 
-## 🧑‍💻 About Me
+<p align="center">
+  <img src="./assets/name.svg" width="600" alt="maavcode — Mario Aguilar Avila" />
+</p>
 
-<img align="right" height="250px" width="420px" alt="GIF" src="https://i.pinimg.com/originals/23/3d/74/233d74f3fd24e51ed5e9dba0992fc868.gif" />
+<h3 align="center">Mario Aguilar Avila · Data Engineer</h3>
 
-- 🎓 **Associate Degree in Multiplatform Application Development**.
-- 💼 Built websites with **Astro** and **React**; observability with **Grafana** and load testing with **k6**.
-- ⚡ Developing web applications with **Next.js**.
-- 🧠 Expanding into **AI & Big Data**.
-- 💻 Passionate about learning and building real-world projects.
-- 👤 **Mario Aguilar Ávila**, 20 years old.
+<br>
 
+<!-- Tech Stack: bento grid, 8 columns (generated) -->
+<div align="center">
+
+<table>
+  <tr>
+    <th colspan="3">Data Pipelines</th>
+    <th colspan="4">Databases</th>
+    <th colspan="1">IoT</th>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="./assets/icons/airflow.svg" width="45" alt="Airflow" /><br><sub>Airflow</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/kafka.svg" width="45" alt="Kafka" /><br><sub>Kafka</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/spark.svg" width="45" alt="PySpark" /><br><sub>PySpark</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/postgresql.svg" width="45" alt="PostgreSQL" /><br><sub>PostgreSQL</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/influxdb.svg" width="45" alt="InfluxDB" /><br><sub>InfluxDB</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/vectordb.svg" width="45" alt="Vector DB" /><br><sub>Vector DB</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/mysql.svg" width="45" alt="MySQL" /><br><sub>MySQL</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/fiware.svg" width="45" alt="FIWARE" /><br><sub>FIWARE</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="./assets/icons/nifi.svg" width="45" alt="NiFi" /><br><sub>NiFi</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/rest.svg" width="45" alt="REST APIs" /><br><sub>REST APIs</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/jdbc.svg" width="45" alt="JDBC" /><br><sub>JDBC</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/sqlite.svg" width="45" alt="SQLite" /><br><sub>SQLite</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/mariadb.svg" width="45" alt="MariaDB" /><br><sub>MariaDB</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/mongodb.svg" width="45" alt="MongoDB" /><br><sub>MongoDB</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/neo4j.svg" width="45" alt="Neo4j" /><br><sub>Neo4j</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/cratedb.svg" width="45" alt="CrateDB" /><br><sub>CrateDB</sub></td>
+  </tr>
+  <tr>
+    <th colspan="3">Languages &amp; Lakehouse</th>
+    <th colspan="3">DevOps &amp; Cloud</th>
+    <th colspan="2">Observability &amp; AI</th>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="./assets/icons/python.svg" width="45" alt="Python" /><br><sub>Python</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/sql.svg" width="45" alt="SQL" /><br><sub>SQL</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/java.svg" width="45" alt="Java" /><br><sub>Java</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/aws.svg" width="45" alt="AWS" /><br><sub>AWS</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/linux.svg" width="45" alt="Linux" /><br><sub>Linux</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/docker.svg" width="45" alt="Docker" /><br><sub>Docker</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/powerbi.svg" width="45" alt="Power BI" /><br><sub>Power BI</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/grafana.svg" width="45" alt="Grafana" /><br><sub>Grafana</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="./assets/icons/iceberg.svg" width="45" alt="Iceberg" /><br><sub>Iceberg</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/hadoop.svg" width="45" alt="HDFS" /><br><sub>HDFS</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/minio.svg" width="45" alt="MinIO" /><br><sub>MinIO</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/github.svg" width="45" alt="GitHub" /><br><sub>GitHub</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/git.svg" width="45" alt="Git" /><br><sub>Git</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/gitlab.svg" width="45" alt="GitLab" /><br><sub>GitLab</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/jupyter.svg" width="45" alt="Jupyter" /><br><sub>Jupyter</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/prometheus.svg" width="45" alt="Prometheus" /><br><sub>Prometheus</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="./assets/icons/seaweedfs.svg" width="45" alt="SeaweedFS" /><br><sub>SeaweedFS</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/parquet.svg" width="45" alt="Parquet" /><br><sub>Parquet</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/json.svg" width="45" alt="JSON" /><br><sub>JSON</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/githubactions.svg" width="45" alt="GitHub Actions" /><br><sub>GitHub Actions</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/mkdocs.svg" width="45" alt="MkDocs" /><br><sub>MkDocs</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/kubernetes.svg" width="45" alt="Kubernetes" /><br><sub>Kubernetes</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/claudecode.svg" width="45" alt="Claude Code" /><br><sub>Claude Code</sub></td>
+    <td align="center" width="90"><img src="./assets/icons/opencode.svg" width="45" alt="OpenCode" /><br><sub>OpenCode</sub></td>
+  </tr>
+</table>
+
+</div>
+
+<!-- Contact line -->
+<p align="center"><b>Open to Data Engineering opportunities and collaborations.</b><br>Have a project or an idea? Let's connect.</p>
+
+<!-- Contact buttons: left / center / right -->
+<p align="center">
+  <a href="https://maavcode.dev"><img align="left" src="./assets/buttons/portfolio.svg" width="180" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mario-aguilar-avila-17a418389/"><img align="right" src="./assets/buttons/linkedin.svg" width="180" alt="LinkedIn" /></a>
+  <a href="mailto:mario.aguilar.dev@hotmail.com"><img src="./assets/buttons/email.svg" width="180" alt="Email" /></a>
+</p>
+
+<hr>
+
+<!-- About -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/23/3d/74/233d74f3fd24e51ed5e9dba0992fc868.gif" width="100%" alt="Coding GIF" />
+</p>
+
+<h2 align="center">✦ <em>Data Engineer · Data Analyst · Analytics Engineer</em> ✦</h2>
+
+<p align="center">
+  Building <b>Big Data</b> projects with <b>PySpark</b>, <b>Kafka</b> and <b>Airflow</b>, from batch to <b>Structured Streaming</b>.<br><br>
+  Learning <b>lakehouse architectures</b> with <b>Apache Iceberg</b>, <b>IoT / Smart Cities</b> data with <b>FIWARE</b> and <b>RAG</b> with vector databases.<br><br>
+  Focused on <b>scalable data pipelines</b>, <b>data quality &amp; lineage</b> and <b>MLOps</b>, turning raw data into decisions.
+</p>
+
+<!-- GitHub Activity -->
+<h2 align="center">✦ <em>GitHub Activity</em> ✦</h2>
+
+<p align="center">
+  <img align="left" height="180" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maavcode&theme=transparent&title_color=8B7FD6&text_color=7E84A3&icon_color=4FA3C7" />
+  <img align="right" height="180" alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=maavcode&hide_border=true&background=00000000&ring=8B7FD6&fire=4FA3C7&currStreakLabel=8B7FD6&sideLabels=8B7FD6&currStreakNum=7E84A3&sideNums=7E84A3&dates=7E84A3&stroke=7E84A3" />
+</p>
+
+<br clear="all">
+
+<!-- GitHub contribution snake -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maavcode/maavcode/output/github-contribution-grid-snake-dark.svg" />
@@ -22,114 +123,62 @@
   </picture>
 </div>
 
-## Tech Stack
+<!-- Projects (generated) -->
+<h2 align="center">✦ <em>Featured Projects</em> ✦</h2>
 
-### Frameworks & Tools
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-
-#### Languages & Knowledge
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-![SEO](https://img.shields.io/badge/SEO-FFA500?style=flat)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-
-### AI & Automation
-
-![OpenCode](https://img.shields.io/badge/OpenCode-6C5CE7?style=flat)
-![Multi-Agent](https://img.shields.io/badge/Multi--Agent-412991?style=flat)
-![AI Driven](https://img.shields.io/badge/AI_Driven-FF6F00?style=flat)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-### DevOps & Observability
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-269539?style=flat&logo=nginx&logoColor=white)
-![SeaweedFS](https://img.shields.io/badge/SeaweedFS-2D3748?style=flat)
-
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![k6](https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white)
-
-## 🚀 Featured Projects
-
-<div align="center"><table>
+<table>
   <tr>
-    <td width="70%">
-      <h3>🚀 Portfolio</h3>
-      <p>Built with <strong>Astro + React + TailwindCSS</strong>.<br>
-      Personal website with dark mode, animations, and responsive design.</p>
-      <a href="#">🔗 maavcode.dev</a>
+    <td width="50%" valign="top">
+      <img src="./assets/projects/project-01.svg" width="100%" alt="ITACA XML - In progress" />
+      <h3>ITACA XML - In progress</h3>
+      <p>Academic analytics dashboard from real <b>ITACA</b> XML exports: Python ingestion with anonymised student IDs, <b>MongoDB</b> storage, <b>Spark</b> ETL and a <b>Power BI</b> report.</p>
+      <p><img src="./assets/icons/python.svg" height="28" alt="Python" title="Python" />&nbsp;<img src="./assets/icons/mongodb.svg" height="28" alt="MongoDB" title="MongoDB" />&nbsp;<img src="./assets/icons/spark.svg" height="28" alt="PySpark" title="PySpark" />&nbsp;<img src="./assets/icons/powerbi.svg" height="28" alt="Power BI" title="Power BI" />&nbsp;<img src="./assets/icons/docker.svg" height="28" alt="Docker" title="Docker" /></p>
+      <p><a href="https://github.com/maavcode/bigdata-p1-itaca"><b>Repo</b></a></p>
     </td>
-    <td width="30%">
-      <img src="https://placehold.co/250x150/2B304A/786FC1?text=Portfolio" width="250"/>
+    <td width="50%" valign="top">
+      <img src="./assets/projects/project-02.svg" width="100%" alt="ITACA Relational - In progress" />
+      <h3>ITACA Relational - In progress</h3>
+      <p>The same academic dashboard built from a relational source: <b>PostgreSQL</b> ingestion to JSON (7k students, 100k+ grades), <b>Spark</b> ETL and <b>Power BI</b>.</p>
+      <p><img src="./assets/icons/python.svg" height="28" alt="Python" title="Python" />&nbsp;<img src="./assets/icons/postgresql.svg" height="28" alt="PostgreSQL" title="PostgreSQL" />&nbsp;<img src="./assets/icons/spark.svg" height="28" alt="PySpark" title="PySpark" />&nbsp;<img src="./assets/icons/powerbi.svg" height="28" alt="Power BI" title="Power BI" />&nbsp;<img src="./assets/icons/docker.svg" height="28" alt="Docker" title="Docker" /></p>
+      <p><a href="https://github.com/maavcode/bigdata-p2-itaca"><b>Repo</b></a></p>
     </td>
   </tr>
   <tr>
-    <td width="70%">
-      <h3>⚡ Coming soon</h3>
-      <p>Built with <strong>Next.js + TypeScript</strong>.<br>
-      Web application with modern UI and full-stack capabilities.</p>
-      <a href="#">🔗 Coming soon</a>
+    <td width="50%" valign="top">
+      <img src="./assets/projects/project-03.svg" width="100%" alt="Smart City with FIWARE - In progress" />
+      <h3>Smart City with FIWARE - In progress</h3>
+      <p>Simulated smart city with virtual sensors on the <b>FIWARE</b> platform: real-time data capture, storage and visualisation in <b>Grafana</b>.</p>
+      <p><img src="./assets/icons/fiware.svg" height="28" alt="FIWARE" title="FIWARE" />&nbsp;<img src="./assets/icons/grafana.svg" height="28" alt="Grafana" title="Grafana" /></p>
+      <p><a href="https://github.com/maavcode/bigdata-p3-smart_city_fiware"><b>Repo</b></a></p>
     </td>
-    <td width="30%">
-      <img src="https://placehold.co/250x150/2B304A/786FC1?text=Coming+Soon" width="250"/>
+    <td width="50%" valign="top">
+      <img src="./assets/projects/project-04.svg" width="100%" alt="Urban Valencia - In progress" />
+      <h3>Urban Valencia - In progress</h3>
+      <p>End-to-end <b>batch + streaming</b> pipeline over Valencia open data (traffic, air quality, weather) joined with <b>Spark</b>, ending in NO₂ and traffic <b>prediction models</b>.</p>
+      <p><img src="./assets/icons/python.svg" height="28" alt="Python" title="Python" />&nbsp;<img src="./assets/icons/rest.svg" height="28" alt="REST APIs" title="REST APIs" />&nbsp;<img src="./assets/icons/spark.svg" height="28" alt="PySpark" title="PySpark" /></p>
+      <p><a href="https://github.com/maavcode/bigdata-p4-urban_valencia"><b>Repo</b></a></p>
     </td>
   </tr>
   <tr>
-    <td width="70%">
-      <h3>📊 Coming soon</h3>
-      <p>Built with <strong>Astro + React</strong>.<br>
-      Something cool coming soon.</p>
-      <a href="#">🔗 Coming soon</a>
+    <td width="50%" valign="top">
+      <img src="./assets/projects/project-05.svg" width="100%" alt="VeMoGO · Desktop" />
+      <h3>VeMoGO · Desktop</h3>
+      <p>Final degree project. Desktop management app (products, sales, services, clients and employees) built with <b>WPF</b> on <b>.NET 9</b>, <b>Entity Framework Core</b> and <b>MySQL</b>.</p>
+      <p><img src="./assets/icons/csharp.svg" height="28" alt="C#" title="C#" />&nbsp;<img src="./assets/icons/dotnet.svg" height="28" alt=".NET" title=".NET" />&nbsp;<img src="./assets/icons/mysql.svg" height="28" alt="MySQL" title="MySQL" /></p>
+      <p><a href="https://github.com/maavcode/project-VeMoGO/tree/main/desktopApp"><b>Repo</b></a></p>
     </td>
-    <td width="30%">
-      <img src="https://placehold.co/250x150/2B304A/786FC1?text=Coming+Soon" width="250"/>
+    <td width="50%" valign="top">
+      <img src="./assets/projects/project-06.svg" width="100%" alt="VeMoGO · Mobile" />
+      <h3>VeMoGO · Mobile</h3>
+      <p>Final degree project. <b>Android</b> client app in <b>Kotlin</b> with <b>Jetpack Compose</b>, backed by a <b>Spring Boot</b> REST API (JPA, bcrypt auth) over the same <b>MySQL</b> database.</p>
+      <p><img src="./assets/icons/kotlin.svg" height="28" alt="Kotlin" title="Kotlin" />&nbsp;<img src="./assets/icons/jetpackcompose.svg" height="28" alt="Jetpack Compose" title="Jetpack Compose" />&nbsp;<img src="./assets/icons/android.svg" height="28" alt="Android" title="Android" />&nbsp;<img src="./assets/icons/spring.svg" height="28" alt="Spring Boot" title="Spring Boot" />&nbsp;<img src="./assets/icons/mysql.svg" height="28" alt="MySQL" title="MySQL" /></p>
+      <p><a href="https://github.com/maavcode/project-VeMoGO/tree/main/mobileApp"><b>Repo</b></a></p>
     </td>
   </tr>
 </table>
-</div>
+<!-- /Projects -->
 
-## Find me at:
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-39E09B?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://maavcode.dev)
-</br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario_Aguilar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/mario-aguilar-avila-17a418389/)
-</br>
-[![Email](https://img.shields.io/badge/Email-mario.aguilar.dev@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=101010)](mailto:mario.aguilar.dev@hotmail.com)
-</br>
-[![Instagram](https://img.shields.io/badge/Instagram-@maavcode-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/maavcode)
-</br>
-[![Twitch](https://img.shields.io/badge/Twitch-maavcode-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/maavcode)
+<!-- Footer -->
+<p align="center">
+  <img src="./assets/wave-bottom.svg" width="100%" alt="Animated bottom wave" />
+</p>

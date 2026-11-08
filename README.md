@@ -84,8 +84,8 @@
 
 <!-- Contact buttons: left / center / right -->
 <p align="center">
-  <a href="https://maavcode.dev"><img align="left" src="./assets/buttons/portfolio.svg" width="180" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/mario-aguilar-avila-17a418389/"><img align="right" src="./assets/buttons/linkedin.svg" width="180" alt="LinkedIn" /></a>
+  <a href="https://maavcode.vercel.app/"><img align="left" src="./assets/buttons/portfolio.svg" width="180" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mario-aguilar-avila"><img align="right" src="./assets/buttons/linkedin.svg" width="180" alt="LinkedIn" /></a>
   <a href="mailto:mario.aguilar.dev@hotmail.com"><img src="./assets/buttons/email.svg" width="180" alt="Email" /></a>
 </p>
 

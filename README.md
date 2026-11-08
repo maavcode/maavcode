@@ -93,7 +93,7 @@
 
 <!-- About -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/23/3d/74/233d74f3fd24e51ed5e9dba0992fc868.gif" width="100%" alt="Coding GIF" />
+  <img src="./assets/about.gif" width="100%" alt="Coding GIF" />
 </p>
 
 <h2 align="center">✦ <em>Data Engineer · Data Analyst · Analytics Engineer</em> ✦</h2>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="182" viewBox="0 0 1200 182" preserveAspectRatio="none" role="img" aria-label="Animated wave">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2B304A"/>
+      <stop offset="50%" stop-color="#786FC1"/>
+      <stop offset="100%" stop-color="#2B304A"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#786FC1"/>
+      <stop offset="50%" stop-color="#9D95E0"/>
+      <stop offset="100%" stop-color="#786FC1"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .w { animation: slide linear infinite; }
+    .w1 { animation-duration: 22s; }
+    .w2 { animation-duration: 15s; animation-direction: reverse; }
+    .w3 { animation-duration: 10s; }
+    @keyframes slide {
+      from { transform: translateX(0); }
+      to   { transform: translateX(-1200px); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .w { animation: none; }
+    }
+  </style>
+
+  <!-- Each path is 2400 wide (two seamless periods of 1200) so a -1200 shift loops perfectly -->
+  <g class="w w1" opacity="0.35">
+    <path fill="url(#g2)" d="M0,150 Q300,90 600,150 T1200,150 T1800,150 T2400,150 L2400,0 L0,0 Z"/>
+  </g>
+  <g class="w w2" opacity="0.55">
+    <path fill="url(#g2)" d="M0,120 Q300,170 600,120 T1200,120 T1800,120 T2400,120 L2400,0 L0,0 Z"/>
+  </g>
+  <g class="w w3">
+    <path fill="url(#g1)" d="M0,90 Q300,40 600,90 T1200,90 T1800,90 T2400,90 L2400,0 L0,0 Z"/>
+  </g>
+</svg>

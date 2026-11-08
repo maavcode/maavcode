@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="130" viewBox="0 25 900 130" role="img" aria-label="maavcode">
+  <title>maavcode</title>
+  <defs>
+    <!-- Repeating gradient sliding one full period: seamless shimmer loop -->
+    <linearGradient id="grad" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse" spreadMethod="repeat">
+      <stop offset="0%"   stop-color="#6C5CE7"/>
+      <stop offset="35%"  stop-color="#9D95E0"/>
+      <stop offset="65%"  stop-color="#786FC1"/>
+      <stop offset="100%" stop-color="#6C5CE7"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+                        values="0 0; 900 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .name {
+      font-family: 'Fira Code', 'JetBrains Mono', 'Cascadia Code', 'SF Mono', Consolas, 'DejaVu Sans Mono', monospace;
+      font-size: 120px;
+      font-weight: 700;
+      letter-spacing: -2px;
+      stroke-width: 2;
+      stroke-dasharray: 700;
+      stroke-dashoffset: 700;
+      fill-opacity: 0;
+      animation: draw 2.2s ease-out forwards, fill 0.8s ease-out 1.6s forwards;
+    }
+    .cursor {
+      fill: #9D95E0;
+      fill-opacity: 1;
+      stroke: none;
+      animation: blink 1s steps(1) infinite;
+    }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes fill { to { fill-opacity: 1; } }
+    @keyframes blink { 50% { fill-opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .name { animation: none; stroke-dashoffset: 0; fill-opacity: 1; }
+      .cursor { animation: none; }
+    }
+  </style>
+
+  <text class="name" x="450" y="128" text-anchor="middle" fill="url(#grad)" stroke="url(#grad)">maavcode<tspan class="cursor">_</tspan></text>
+</svg>

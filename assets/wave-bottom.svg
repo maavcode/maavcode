@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" preserveAspectRatio="none" role="img" aria-label="Animated wave">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2B304A"/>
+      <stop offset="50%" stop-color="#786FC1"/>
+      <stop offset="100%" stop-color="#2B304A"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#786FC1"/>
+      <stop offset="50%" stop-color="#9D95E0"/>
+      <stop offset="100%" stop-color="#786FC1"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .w { animation: slide linear infinite; }
+    .w1 { animation-duration: 22s; }
+    .w2 { animation-duration: 15s; animation-direction: reverse; }
+    .w3 { animation-duration: 10s; }
+    @keyframes slide {
+      from { transform: translateX(0); }
+      to   { transform: translateX(-1200px); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .w { animation: none; }
+    }
+  </style>
+
+  <!-- Mirror of wave-top.svg: filled from the wave line down to the bottom edge -->
+  <g class="w w1" opacity="0.35">
+    <path fill="url(#g2)" d="M0,50 Q300,110 600,50 T1200,50 T1800,50 T2400,50 L2400,200 L0,200 Z"/>
+  </g>
+  <g class="w w2" opacity="0.55">
+    <path fill="url(#g2)" d="M0,80 Q300,30 600,80 T1200,80 T1800,80 T2400,80 L2400,200 L0,200 Z"/>
+  </g>
+  <g class="w w3">
+    <path fill="url(#g1)" d="M0,110 Q300,160 600,110 T1200,110 T1800,110 T2400,110 L2400,200 L0,200 Z"/>
+  </g>
+</svg>
